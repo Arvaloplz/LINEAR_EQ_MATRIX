@@ -8,7 +8,7 @@ BY ANDROIDEV on python 2020
 
 First we have an **Excel file that contains our data**, which have to be solved by our method
 
-![](./Captura de pantalla 2020-09-17 163211.jpg)
+![alt text](Captura de pantalla 2020-09-17 163211.jpg "HOLA")
 
 **What we have here ?**
 
